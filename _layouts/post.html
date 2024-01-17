@@ -31,8 +31,17 @@
             (d.head || d.body).appendChild(s);
           })();
         </script>
+        
         <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
       {%- endif -%}
+      <script src="https://utteranc.es/client.js"
+        repo="https://github.com/strollingorange/blog"
+        issue-term="pathname"
+        label="Comments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+        </script>
     </div>
   </main>
   {%- include footer.html -%}
