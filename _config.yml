@@ -31,8 +31,8 @@ texture:
   # generate social links in footer
   social_links:
     twitter: twitter
-    github:  strollingoarnge
-    linkedIn: linkedIn
+    github:  strollingorange
+    linkedIn: 
     rss: rss
  
 
