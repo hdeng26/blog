@@ -12,6 +12,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 
+show_excerpts: true
 permalink: /posts/:title/
 texture:
   title: Haojin Deng
@@ -20,7 +21,13 @@ texture:
   style: black
   showNav: true
   showPicker: false
-
+  
+  navigation:
+    - title: My work
+      url: "/my-work"
+    - title: Home
+      url: "/"
+  disqus_shortname: games
   # generate social links in footer
   social_links:
     twitter: twitter
