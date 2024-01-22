@@ -43,7 +43,7 @@ texture:
 
 # Build settings
 # theme: texture
-
+BASE_PATH : /
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
