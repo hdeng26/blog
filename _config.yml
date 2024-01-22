@@ -20,7 +20,7 @@ texture:
   date_format: "%b %-d, %Y"
   style: black
   showNav: true
-  showPicker: false
+  showPicker: true
   
   navigation:
     - title: My work
@@ -31,7 +31,7 @@ texture:
   # generate social links in footer
   social_links:
     twitter: twitter
-    github:  strollingorange
+    github:  hdeng26
     linkedIn: 
     rss: rss
 url: 'https://hdeng26.github.io/' # your main domain
