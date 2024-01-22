@@ -34,7 +34,7 @@ texture:
     github:  hdeng26
     linkedIn: 
     rss: rss
-url: 'https://hdeng26.github.io/' # your main domain
+#url: 'https://hdeng26.github.io/' # your main domain
 baseurl: 'blog/'
 
 # If you want to link only specific pages in your header, uncomment
