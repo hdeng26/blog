@@ -21,7 +21,7 @@ texture:
   style: black
   showNav: true
   showPicker: true
-  
+  analytics_id: 'G-RYZCN92MLD'
   navigation:
     - title: My work
       url: "/my-work"
