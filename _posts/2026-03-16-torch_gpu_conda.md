@@ -4,7 +4,7 @@ title:  "PyTorch GPU Setup with Conda (2026 Simplified Edition)"
 date:   2026-03-16 12:00:00 +0530
 ---
 
-**This is an updated version of my [2024 PyTorch Windows environment config tutorial]({% post_url 2024-01-22-torch_gpu %}). The old 9-step process has been simplified to 5 steps — no more manual CUDA Toolkit, cuDNN, or environment variable configuration.**
+**This is an updated version of my [2024 PyTorch Windows environment config tutorial]({{ '/posts/torch_gpu/' | relative_url }}). The old 9-step process has been simplified to 5 steps — no more manual CUDA Toolkit, cuDNN, or environment variable configuration.**
 
 ---
 
