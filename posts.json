@@ -1,0 +1,6 @@
+---
+layout: null
+---
+[
+{% for post in site.posts limit: 5 %}{% unless forloop.first %},{% endunless %}{"title":{{ post.title | jsonify }},"url":{{ post.url | relative_url | jsonify }},"date":{{ post.date | date: "%B %-d, %Y" | jsonify }},"iso":{{ post.date | date: "%Y-%m-%d" | jsonify }}}{% endfor %}
+]
